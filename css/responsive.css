@@ -1,0 +1,114 @@
+@media screen and (min-width:768px) and (max-width:991px) {
+  .nab-hero-area {
+     
+    padding-top: 0px;
+    border-radius: 0 !important;
+  }
+
+  .nab-area {
+    padding: ;
+    margin: 0;
+   
+
+}
+ /*  ========== hero section========= */
+ .hero-section {
+  padding: 0px 0 0px 0;
+}
+   
+ .hreo-left-item h2 {
+  font-size: 40px;
+  font-weight: 500;
+  color: #fff;
+}
+
+
+.ftco-item br {
+  display: none;
+}
+
+.hreo-right-item-img img {
+  position: absolute;
+  top: 190px;
+  left: 17%;
+  transform: translate(50% 50%);
+}
+
+.shop-area {
+  padding: 59px 0;
+}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:767px) {
+  .ftco-up {
+    margin-top: -101px;
+  }
+    
+  .nab-hero-area {
+     
+    padding-top: 0px;
+    border-radius: 0 !important;
+  }
+
+  .nab-area {
+    padding: ;
+    margin: 0;
+
+}
+
+
+/*  ========== hero section========= */
+.nab-hero-area {
+  background-position:   ;
+
+ 
+}
+.hero-section {
+  padding: 0px 0 0px 0;
+}
+
+
+
+.hreo-left-item h2 {
+  font-size: 40px;
+  font-weight: 500;
+  color: #fff;
+  margin-top: 100px;
+
+}
+
+.hreo-right-item-img img {
+  display: none;
+}
+
+
+/* ========= */
+
+.shop-area {
+  padding: 59px 0;
+}
+.footer-area {
+  background-color: #6EBE45;
+  padding: 20px 0 0px 0;
+}
+.footer-logo-menu {
+  padding: 0px 0 18px 0;
+}
+
+
+
+}
